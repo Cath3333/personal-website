@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Software Engineer Intern",
+        "company": "TSMC",
+        "startDate": "2024-06",
+        "endDate": "present",
+        "description": "Description 1",
+        "tag": "Work",
+        "skills": ["TypeScript", "GoLang", "Python"]
+    },
+    {
+        "title": "Co-Director",
+        "company": "The Signal Society",
+        "startDate": "2023-02",
+        "endDate": "present",
+        "description": "Description 2",
+        "tag": "Club"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Hack4Impact UPenn",
+        "startDate": "2023-10",
+        "endDate": "present",
+        "description": "Description 2",
+        "tag": "Club"
+    }
+]
