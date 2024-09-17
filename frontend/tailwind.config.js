@@ -8,6 +8,12 @@ module.exports = {
       colors: {
         'sand': '#F1EFEF',
       },
+      fontFamily: {
+        sans: ['Josefin', 'Arial', 'sans-serif'],
+      },
+      textColor: {
+        DEFAULT: '#ffffff', 
+      },
     },
   },
   plugins: [],

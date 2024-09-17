@@ -1,29 +1,42 @@
 [
     {
         "id": 1,
-        "title": "InstaLite / Mini Instagram Clone",
-        "description": "This is a project description",
+        "title": "InstaLite",
+        "description": "Mini Instagram Clone, features include user profile, feed, and real-time chats",
         "image": "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
         "url": "https://www.google.com",
-        "tags": ["Programming", "Web Development"],
-        "skills": ["TypeScript", "Node.js"]
+        "type": "Code",
+        "tags": ["Web Dev", "Full Stack"],
+        "skills": ["TypeScript", "Node.js", "AWS RDS, DynamoDB", "Apache Spark", "Kafka"]
     },
     {
         "id": 2,
-        "title": "Project 2",
-        "description": "This is a project description",
+        "title": "Nudge",
+        "description": "Productivity appp with sticky-note visualizations of tasks",
         "image": "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
         "url": "https://www.google.com",
-        "tags": ["Programming", "Web Development"],
-        "skills": ["TypeScript", "Node.js"]
+        "type": "Code",
+        "tags": ["Web Dev", "UXUI"],
+        "skills": ["TypeScript", "Node.js", "MongoDB"]
     },
     {
         "id": 3,
-        "title": "The Blue Book",
-        "description": "This is a project description",
+        "title": "Personal Website",
+        "description": "Portoflio website with an interactive 3D background",
         "image": "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
         "url": "https://www.google.com",
-        "tags": ["Publication Design", "Book-making"],
+        "type": "Code",
+        "tags": ["Web Dev", "FrontEnd", "Three.js"],
+        "skills": ["React", "Three.js"]
+    },
+    {
+        "id": 4,
+        "title": "SustainaSwap",
+        "description": "Winner of the Best Accessibility award at HackHarvard 2023",
+        "image": "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+        "url": "https://www.google.com",
+        "type": "Code",
+        "tags": ["Web Dev", "Full Stack"],
         "skills": ["Adobe Photoshop", "Adobe InDesign"]
     }
 ]

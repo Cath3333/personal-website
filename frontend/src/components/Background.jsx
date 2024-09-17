@@ -15,7 +15,7 @@ const SkyScene = () => {
     mieDirectionalG: 0.7,
     elevation: 2,
     azimuth: 180,
-    exposure: 0.5
+    exposure: 0.45
   };
 
   useFrame(() => {
